@@ -63,5 +63,5 @@ plt.colorbar()
 plt.tight_layout(pad=0.4)#, w_pad=0.5, h_pad=1.0)
 
 #plt.show()
-plt.savefig("compare.pdf")
+plt.savefig("compare.png")
 
